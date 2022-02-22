@@ -4,4 +4,7 @@ main() {
 
   print(a);
   print(b);
+
+  print(a * b);
+  print(1 + 2 * 4);
 }
