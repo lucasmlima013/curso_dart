@@ -4,4 +4,7 @@ void main() {
   var texto = "O valor da soma é: ";
 
   print(texto + (a + b).toString());
+
+  print(a.runtimeType);
+  print(a is String);
 }
