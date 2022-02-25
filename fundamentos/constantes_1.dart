@@ -10,5 +10,5 @@ void main() {
 
   var area = PI * raio * raio;
 
-  print("O valor do raio é: " + area.toString());
+  print("O valor do raio é igual a: " + area.toString());
 }
